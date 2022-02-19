@@ -1,0 +1,18 @@
+.App {
+  font-family: sans-serif;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+
+.nav > ul {
+  list-style: none;
+  width: 500px;
+  display: flex;
+  justify-content: space-evenly;
+}
+
+a {
+  text-decoration: none;
+  color: inherit;
+}
